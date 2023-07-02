@@ -20,7 +20,6 @@ I am 18 years old. Graduated from school in 2022. I am looking for my way.
 
 ```
 public class Test {
-
    public static void main(String[] args) {
       System.out.println("Hello world");
       System.out.println("5 раз");
